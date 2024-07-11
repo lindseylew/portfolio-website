@@ -82,7 +82,7 @@ export const navItems = [
       title: "Lake Brantley Rowing Association",
       des: "Athlete Registration Application",
       img: "/project2.png",
-      iconLists: ["/html.svg", "/css.svg", "/js.svg", "/bootstrap.svg"],
+      iconLists: ["/html.svg", "/css.svg", "/js.svg", "/bootstrap.svg", "/webflow_icon.png"],
       link: "https://summer-registration-24-1ccd6f0fe902.herokuapp.com/",
     },
   ];
